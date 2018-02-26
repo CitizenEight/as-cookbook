@@ -1,7 +1,7 @@
 Contribution Guidelines
 ===
 
-The initial version of The Anarcho-Syndicalist's Cookbook ("the Cookbook")
+The initial version of The Anarcho-Syndicalist Cookbook ("the Cookbook")
 will be written using American English spelling and grammar rules. LaTeX will
 be the document format because it is freely available and completely
 text-based.
