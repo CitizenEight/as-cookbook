@@ -1,0 +1,25 @@
+Contribution Guidelines
+===
+
+The initial version of The Anarcho-Syndicalist's Cookbook ("the Cookbook")
+will be written using American English spelling and grammar rules. LaTeX will
+be the document format because it is freely available and completely
+text-based.
+
+Contributors, please submit recipes and edits as a git branch. If you have any
+questions about this process please feel free to message me on Keybase
+(username: citizeneight) or via email (c8temp [at] protonmail.com)
+
+LaTeX 
+---
+LaTex (lay-tech) is a document type-setting system that uses plain-text (as opposed to programs like LibreOffice
+or Word which have opaque formats). It provides the major benefit of never having to manually change numbers or 
+references for trivial changes like chapter reordering or ToC creation.  
+
+* [https://www.latex-project.org/](LaTeX project page)
+* [https://www.sharelatex.com/](Try LaTeX in your browser) good for learning syntax
+
+Git
+---
+Git is a version control system.
+TODO: guide for submitting changes and new content

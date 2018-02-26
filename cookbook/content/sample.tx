@@ -1,0 +1,20 @@
+\documentclass{article}
+\usepackage{blindtext}
+\usepackage[utf8]{inputenc}
+
+\title{Sample Title}
+
+\author{Citizen Eight}
+\date{February 2018}
+
+\begin{document}
+
+\maketitle
+
+\section{sample sub section}
+
+Lorem Ipsum...
+
+\section{Another sample sub section}
+
+\end{document}

@@ -1,0 +1,44 @@
+The Anarcho-Syndicalist's Cookbook
+===
+This book is not for fascists
+
+Purpose
+---
+The 1971 title "The Anarchist's Cookbook" gives Anarchism a bad name. The
+Anarcho-Syndicalist's Cookbook will be a counterpoint, with useful recipes for
+communicating securely, direct action, whistle blowing, organizing workplaces,
+and meaningful resistance to exploitive hierarchies.
+
+Test Syndicate, Please Ignore
+---
+We seek to build and participate in a syndicate for the purpose of writing a
+book about anarcho-syndicalism and putting those values into practice. Book
+writing has a known set of challenges, so figuring out the mechanics of being
+a democratically organized book publisher may be the larger value of this project. 
+
+The good news is that we already have the means of production relevant for this
+project. GitHub, Keybase, Reddit, and other websites are already workable
+platforms for the basic problems of sharing text, confirming identity with
+reasonable certainty, holding a vote, and maintaining a document with auditable
+version control.
+
+
+Contributing
+---
+All edits and contributions submitted as git patches will considered. Every
+contributor is free to maintain their own branch. For the editor's convenience,
+git will be used to facilitate democratic participation. If enough people
+participate and this becomes unwieldy we can consider other ways of organizing
+ourselves that fits the model of writing a book collectively. Unless anonymity
+is requested, all work will be attributed to the authors and editors.
+
+For now, please see org/recipe_list.mkd for ideas about how to contribute and
+org/contribution_guidelines.mkd
+
+
+License
+---
+We intend to release this work under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International license. HTML and PDF
+versions will be available on my website. We do not intend to publish physical
+copies unless doing so in a carbon-neutral way is possible.

@@ -1,0 +1,3 @@
+| Person | GitHub Username| Role(s)|
+|--------|----------------|--------|
+|CitzenEight|citizeneight|Editor, Contributor|
